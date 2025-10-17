@@ -1,2 +1,2 @@
 # MarketStoque
-Sistema de controle de estoque para um supermercado
+Sistema de controle de estoque para um supermercado 
